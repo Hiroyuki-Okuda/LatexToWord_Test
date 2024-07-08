@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LatexToWord": {
+      "commandName": "Project",
+      "commandLineArgs": "sample_tex/root.tex ignore.txt\r\n",
+      "workingDirectory": "C:\\workspace\\Projects\\テストプログラム３\\LatexToWord"
+    }
+  }
+}
